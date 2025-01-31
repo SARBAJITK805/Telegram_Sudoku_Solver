@@ -34,8 +34,6 @@ def solve_sudoku(pathImage):
     heightImg=450
     widthImg=450
 
-    # HTTP API:7837745480:AAH8W8DMJT6fl0qAM6lCKFEMfzP2hMyNDqA
-
     # preprocessing image
 
     img=cv2.imread(pathImage)
